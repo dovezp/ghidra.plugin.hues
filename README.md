@@ -18,7 +18,7 @@ I made this plugin per a request of "[Issue #13](https://github.com/NationalSecu
 ### Feature Demo
 See the Hues Plugin in action:
 
-![Hues in Action](.github/media/images/demo.gif)
+![Hues in Action](https://s11.gifyu.com/images/SgHaQ.gif)
 
 ### Building the Code
 
