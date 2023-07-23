@@ -3,17 +3,34 @@
 
 This is a simple plugin which provides different colors to the GHIDRA environment. I made it per a request of [issue #13](https://github.com/NationalSecurityAgency/ghidra/issues/13).
 
-## Demo
+## Building
 
-![Hues in Action](.github/media/images/demo.gif)
+Run gradlew.bat
 
-## Versions
+Gradle build outputs can be found in Hues//dist//ghidra_A.B_PUBLIC_ZZZZYYXX_Hues.zip
 
-* [9.0.1](https://github.com/dovezp/ghidra.plugin.hues/tree/9.0.1)
+## Installing
+
+1. Download the recent [release][ref-releases]
+2. Extract Hues folder from Zip into GHIDRA_INSTALL_DIR//Ghidra//Extensions//
+3. Start Ghidra, a prompt of a new plugin has been found should show
+4. Activate prompt and start using
+
+## Todos
+
+- [x] Taskbar Icon
+- [x] Clean Source Code
+- [ ] Avoid theme overwrites
+- [x] Profile Management
+- [ ] Update Documentation
+- [x] Display Preview Sample
+- [x] Auto Configuration Saving
+- [ ] Selected Window Colorization
+
 
 ## License
 
-This project is licensed under the [Apache License 2.0 (Apache-2.0)](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)).
+This project is licensed under the [Apache License 2.0 (Apache-2.0)](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)). See the [LICENSE](./LICENSE.md) file for details.
 
 <!--  -->
 
