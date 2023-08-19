@@ -26,7 +26,7 @@ See the Hues Plugin in action:
 You can get started with the Hues Plugin by visiting the [9.0.1](https://github.com/dovezp/ghidra.plugin.hues/tree/9.0.1) version branch. You can continue the develop of the project in Eclipse or build it via gradle by running `gradlew.bat` and obtaining the gradle build output in `Hues//dist//ghidra_A.B_PUBLIC_ZZZZYYXX_Hues.zip`.
 
 ### Installation
-Installing the Hues Plugin is realiviely straight forward.
+Installing the Hues Plugin is relatively straight forward.
 1. Download the recent [release](https://github.com/dovezp/ghidra.plugin.hues/releases)
 2. Extract Hues folder from zip into GHIDRA_INSTALL_DIR//Ghidra//Extensions//
 3. Start Ghidra, a prompt of a new plugin has been found message box should show
