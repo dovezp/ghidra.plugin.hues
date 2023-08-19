@@ -1,22 +1,8 @@
-# Ghidra - Plugin
-## Hues - The Color Plugin
+# Hues - The Color Plugin
+### Enhancing Your Ghidra Experience with Hues
+Welcome to the Ghidra Hues Plugin repository! If you're looking for a way to make your reverse engineering environment more vibrant and visually appealing, you're in the right place. This plugin brings a pop of color to the Ghidra interface, making it not only functional but also aesthetically pleasing.
 
-This is a simple plugin which provides different colors to the GHIDRA environment. I made it per a request of [issue #13](https://github.com/NationalSecurityAgency/ghidra/issues/13).
-
-## Building
-
-Run gradlew.bat
-
-Gradle build outputs can be found in Hues//dist//ghidra_A.B_PUBLIC_ZZZZYYXX_Hues.zip
-
-## Installing
-
-1. Download the recent [release][ref-releases]
-2. Extract Hues folder from Zip into GHIDRA_INSTALL_DIR//Ghidra//Extensions//
-3. Start Ghidra, a prompt of a new plugin has been found should show
-4. Activate prompt and start using
-
-## Todos
+### Development Tasks
 
 - [x] Taskbar Icon
 - [x] Clean Source Code
@@ -27,26 +13,24 @@ Gradle build outputs can be found in Hues//dist//ghidra_A.B_PUBLIC_ZZZZYYXX_Hues
 - [x] Auto Configuration Saving
 - [ ] Selected Window Colorization
 
+### Building the Code
+You can continue the develop of the project in Eclipse or build it via gradle by running `gradlew.bat` and obtaining the gradle build output in `Hues//dist//ghidra_A.B_PUBLIC_ZZZZYYXX_Hues.zip`.
 
-## License
+### Installation
+Installing the Hues Plugin is relatively straight forward.
+1. Extract the `Hues` folder from `Hues//dist//ghidra_A.B_PUBLIC_ZZZZYYXX_Hues.zip` into `GHIDRA_INSTALL_DIR//Ghidra//Extensions//`
+2. Start Ghidra, a prompt of a new plugin has been found message box should show
+3. Activate prompt and start using. It is that easy!
 
-This project is licensed under the [Apache License 2.0 (Apache-2.0)](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)). See the [LICENSE](./LICENSE.md) file for details.
+### License
+This repository operates under the [Apache License 2.0 (Apache-2.0)](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)), ensuring it's open, transparent, and in compliance with licensing standards.
 
-<!--  -->
+### Your Feedback Matters
+I value your feedback immensely, as it guides me in enhancing and refining this repository for future versions. Whether you've discovered an error, have a suggestion, or simply want to share your thoughts, I encourage you to reach out. Your input is vital to continued improvement.
 
-## Feedback
+To provide feedback, open a new issue in the repository's issue section. Be sure to include relevant details and context to help me better understand your perspective.
 
-I welcome your constructive input - both negative and positive. I will continue to try to provide updates when able. At some point you may find errors, inconsistencies, or methods that could be improved, or are missing altogether. Your feedback is critical to help improve future revisions.
-
-The best way to reach out is by opening a new issue in this repository:
-
-https://github.com/dovezp/ghidra.plugin.hues/issues
-
-Please be sure to refer to what your situation is when giving feedback and if possible link the topic in question.
-
-Many thanks.
-
-<hr/>
+Thank you for being a part of this journey to make Ghidra a more vibrant and productive coding environment.
 
 <p align="center">
   <p align="center">
