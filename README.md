@@ -18,7 +18,8 @@ I made this plugin per a request of "[Issue #13](https://github.com/NationalSecu
 ### Feature Demo
 See the Hues Plugin in action:
 
-![Hues in Action](https://s11.gifyu.com/images/SgHaQ.gif)
+![Hues in Action](https://github.com/dovezp/ghidra.plugin.hues/assets/89095890/14b6b1d6-42b4-491f-9c49-3b146d3b3900)
+
 
 ### Building the Code
 
