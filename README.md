@@ -32,11 +32,16 @@ To provide feedback, open a new issue in the repository's issue section. Be sure
 
 Thank you for being a part of this journey to make Ghidra a more vibrant and productive coding environment.
 
+### Anti-AI Notice
+
+I do not support or condone the use of artificial intelligence (AI) tools in the creation or distribution of any content I produce. All work published by me is made by a human, and I will not grant permission for my content, artwork, writing, or any related materials to be used in training or generating AI models. 
+
+I request that no one uploads, scrapes, or utilizes my work in any AI datasets or projects. Any violation of this request goes against my explicit wishes.
+
+Thank you for respecting human creativity.
+
 <p align="center">
   <p align="center">
-    <a href="https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=https://github.com/dovezp/ghidra.plugin.hues">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdovezp%2Fghidra.plugin.hues&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" alt="repository hits">
-    </a>
     <a href="https://github.com/dovezp/ghidra.plugin.hues/releases">
       <img src="https://img.shields.io/github/downloads/dovezp/ghidra.plugin.hues/total?style=flat-square" alt="downloads"/>
     </a>
